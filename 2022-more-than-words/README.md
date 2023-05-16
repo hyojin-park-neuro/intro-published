@@ -8,4 +8,4 @@ Increased sensitivity to semantically salient task-irrelevant speech in the left
 **keywords**
 #topic #keywords #nlp #multi-speaker
 
-[Get the gist of the story: Neural map of topic keywords in multi-speaker environment (under review)](https://www.biorxiv.org/content/10.1101/2022.05.05.490770v1)
+[Park H, Gross, J (2022) bioRxiv. Get the gist of the story: Neural map of topic keywords in multi-speaker environment (under review)](https://www.biorxiv.org/content/10.1101/2022.05.05.490770v1)
