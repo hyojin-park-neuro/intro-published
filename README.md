@@ -1,4 +1,4 @@
-# Some of Published Work
+# A selection of published works
 
 <https://hyojin-park-neuro.github.io/intro-published/2022-more-than-words>
 
