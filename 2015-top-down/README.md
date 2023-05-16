@@ -1,4 +1,4 @@
-# Top-down modulation of speech entrainment
+# Top-down modulation of speech entrainment 🤗
 
 This study provides new insights into the role of low-frequency oscillations in top-down control during continuous speech processing.  We show that causal top-down signals from frontal and motor areas largely directed at left auditory cortex. Furthermore, speech-auditory cortex coupling is enhanced as a function of stronger top-down signals.
 
