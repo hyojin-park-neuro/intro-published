@@ -4,4 +4,4 @@ This study provides new insights into the role of low-frequency oscillations in 
 
 #auditory #natural #speech #entrainment #top-down #motor #information theory #transfer entropy (TE)
 
-Park H, Ince RAA, Schyns PG, Thut G, Gross J (2015) Current Biology. Frontal Top-Down Signals Increase Coupling of Auditory Low-Frequency Oscillations to Continuous Speech in Human Listeners
+[Park H, Ince RAA, Schyns PG, Thut G, Gross J (2015) Current Biology. Frontal Top-Down Signals Increase Coupling of Auditory Low-Frequency Oscillations to Continuous Speech in Human Listeners](https://doi.org/10.1016/j.cub.2015.04.049)
