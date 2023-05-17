@@ -1,4 +1,4 @@
-# <p align="center">🧠 More than Words:<br>Topic keywords processing in the brain in multi-speaker environment</p>
+# More than Words: 🧠<br>Topic keywords processing in the brain in multi-speaker environment
 
 Neural signatures of the semantic gist of a story (topic keywords processing) are attainable via applications of machine learning or deep learning-based NLP technique on the materials used in the neuroimaging study. 
 Task-relevant speech chunks containing topic keywords are processed in the known language brain regions and sensorimotor cortices when compared to those with semantically less critical words. 
