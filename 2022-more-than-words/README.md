@@ -7,7 +7,7 @@ Using brain responses-stimuli mapping functions by encoding and decoding model a
 Increased sensitivity to semantically salient task-irrelevant speech in the left auditory-motor brain areas exhibits a detrimental effect on the understanding of task-relevant speech. 
 
 **keywords**
-#topic #keywords #nlp #multi-speaker
+#topic #keywords #nlp #multi-speaker #attended #unattended
 
 [Park H, Gross J (2022) bioRxiv. Get the gist of the story: Neural map of topic keywords in multi-speaker environment (under review)](https://www.biorxiv.org/content/10.1101/2022.05.05.490770v1)
 
