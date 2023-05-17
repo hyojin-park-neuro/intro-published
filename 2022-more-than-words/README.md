@@ -10,4 +10,4 @@ Increased sensitivity to semantically salient task-irrelevant speech in the left
 
 [Park H, Gross J (2022) bioRxiv. Get the gist of the story: Neural map of topic keywords in multi-speaker environment (under review)](https://www.biorxiv.org/content/10.1101/2022.05.05.490770v1)
 
-<img src="https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.05.490770/F1/graphic-1.large.jpg?width=800&height=600&carousel=1" width="600">
+<img src="https://www.biorxiv.org/content/biorxiv/early/2022/05/05/2022.05.05.490770/F1/graphic-1.large.jpg?width=800&height=600&carousel=1" width="800">
