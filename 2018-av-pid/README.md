@@ -1,4 +1,4 @@
-# <p align="center">Audio-Visual Speech Integration: Synergy & Redundancy 👁️👂</p>
+# Audio-Visual Speech Integration: Synergy & Redundancy 👁️👂
 
 Combining different sources of information is fundamental to many aspects of behavior, from our ability to picking up a ringing mobile phone to communicating with a friend in a busy environment. 
 
