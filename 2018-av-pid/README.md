@@ -1,4 +1,4 @@
-# Audio-Visual Speech Integration: Synergy & Redundancy 👁️👂
+# <p align="center">Audio-Visual Speech Integration: Synergy & Redundancy 👁️👂</p>
 
 Combining different sources of information is fundamental to many aspects of behavior, from our ability to picking up a ringing mobile phone to communicating with a friend in a busy environment. 
 
@@ -14,4 +14,6 @@ We also believe that this methodology provides a novel and principled way to qua
 
 [Park H, Ince RAA, Schyns PG, Thut G, Gross J (2018) PLoS Biology. Representational interactions during audiovisual speech entrainment: Redundancy in left posterior superior temporal gyrus and synergy in left motor cortex](https://doi.org/10.1371/journal.pbio.2006558)
 
+<p align="center">
 <img src="https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.2006558.g001" width="1000">
+</p>
