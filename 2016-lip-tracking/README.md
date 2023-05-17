@@ -5,3 +5,5 @@ This study is the first demonstration of visual speech entrainment. We  investig
 #visual #speech #entrainment # lip movement #lip-reading #motor #cocktail party #coherence
 
 [Park H, Kayser C, Thut G, Gross J (2016) eLife. Lip movements entrain the observers’ low-frequency brain oscillations to facilitate speech intelligibility](https://doi.org/10.7554/eLife.14521)
+
+<img src="https://iiif.elifesciences.org/lax/14521%2Felife-14521-fig2-v2.tif/full/1234,/0/default.webp" width="800">
