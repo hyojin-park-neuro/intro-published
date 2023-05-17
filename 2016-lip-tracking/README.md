@@ -8,4 +8,6 @@ We found that the area of the observer’s brain that controls the lips (the mot
 
 [Park H, Kayser C, Thut G, Gross J (2016) eLife. Lip movements entrain the observers’ low-frequency brain oscillations to facilitate speech intelligibility](https://doi.org/10.7554/eLife.14521)
 
+<p align="center">
 <img src="https://iiif.elifesciences.org/lax/14521%2Felife-14521-fig2-v2.tif/full/1234,/0/default.webp" width="800">
+</p>
